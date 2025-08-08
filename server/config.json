@@ -1,4 +1,4 @@
 {
     "port": 6507,
-    "userDatabase": "users.json"
+    "userDatabase": "server/users.json"
 }
