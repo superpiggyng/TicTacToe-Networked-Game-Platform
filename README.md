@@ -52,6 +52,6 @@ PLACE to make a move (prompts for col & row 0–2)
 
 FORFEIT to concede the game
 
-Start a new game by entering any of the Out-of-Game Commands
-See test report for sample on how to use commands
-Tested with ncat
+Start a new game by entering any of the Out-of-Game Commands.
+
+See test report for sample on how to use commands.
