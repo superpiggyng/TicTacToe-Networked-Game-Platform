@@ -42,7 +42,7 @@ ROOMLIST to list available rooms (player or viewer)
 
 CREATE to create a room (waits for another player)
 
-JOIN to join a room (PLAYER or VIEWIER)
+JOIN to join a room (PLAYER or VIEWER)
 
 In-game:
 
