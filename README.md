@@ -44,8 +44,6 @@ CREATE to create a room (waits for another player)
 
 JOIN to join a room (PLAYER or VIEWIER)
 
-QUIT to exit
-
 In-game:
 
 PLACE to make a move (prompts for col & row 0–2)
