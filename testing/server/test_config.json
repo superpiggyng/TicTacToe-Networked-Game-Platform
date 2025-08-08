@@ -1,0 +1,4 @@
+{
+    "port": 6507,
+    "userDatabase": "testing/server/test_users.json"
+}

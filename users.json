@@ -1,0 +1,38 @@
+[
+    {
+        "username": "rom",
+        "password": "$2b$12$KHboVuSBWHLQJz9FEy8ExOAJb/bOF.3/kGbYZ/HpjeaJZoZCCugLa"
+    },
+    {
+        "username": "HELLO",
+        "password": "$2b$12$d/vJy4xCimF5Q7FT8EB6NeAZcPNDcBw9CV9dEgp4U7tM47es030NO"
+    },
+    {
+        "username": "myboi",
+        "password": "$2b$12$HUWSCiuS.CO2fryw.uYcb.KeQP7h5vRtVmq1ERgWOgHoJ/eS.03ZS"
+    },
+    {
+        "username": "SUP",
+        "password": "$2b$12$.qK8sxg/BQejDqDA2U6rGeDbmdGWHjeqU5SapAgsDTuRnvjUL7uSS"
+    },
+    {
+        "username": "hello",
+        "password": "$2b$12$A88Q2/1dYe8EnOuOPxiJpObipnv8keI.omc.vG6GmggDJOOZgztbG"
+    },
+    {
+        "username": "super",
+        "password": "$2b$12$HfMi19.zQm5JdUfwLlCTveEtSdMCLGcQsauQCTM.craEXzdz16Uu2"
+    },
+    {
+        "username": "testuser",
+        "password": "$2b$12$dQlFMLf31e.P2DQ08MJHm.j64RnwWyOjh2d14G6qVlCMECMYYI826"
+    },
+    {
+        "username": "testuser2",
+        "password": "$2b$12$Jw0qFNnYBqqy7IvPckwF2uFfzrISVTfJAy.jshXk6MMpdrWiAV8YC"
+    },
+    {
+        "username": "dummytest",
+        "password": "$2b$12$L.K5vTnafAyiNuYkN1UnUe6DqAjLa5O2hWFXg5M2MgQa9/VUjpJWC"
+    }
+]
