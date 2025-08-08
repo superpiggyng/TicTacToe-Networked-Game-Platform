@@ -1,6 +1,6 @@
-# NetTacToe – Online Multiplayer Tic-Tac-Toe
+# TicTacToe - Networked-Game-Platform
 
-NetTacToe is a networked, real-time multiplayer Tic-Tac-Toe game implemented in Python.
+This project is a networked, real-time multiplayer Tic-Tac-Toe game implemented in Python.
 It allows players to log in, create or join game rooms, play live matches, or watch games as viewers.
 The system uses a **custom text-based protocol** over TCP sockets and supports concurrent clients.
 Testing: Verified server responses using Wireshark (to capture and inspect TCP traffic between client and server, verifying protocol message format and sequence) and both Netcat (nc) and Ncat (ncat) to test server and client sides;see test report.
