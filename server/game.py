@@ -1,4 +1,4 @@
-from player import Player
+from server.player import Player
 
 # modified into a class and
 # added methods from the original scaffold
@@ -112,4 +112,3 @@ class Game:
             all(self.board[y][y] == symbol for y in range(BOARD_SIZE)) or
             all(self.board[BOARD_SIZE - 1 - y][y] == symbol for y in range(BOARD_SIZE))
         )
-    

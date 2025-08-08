@@ -1,5 +1,5 @@
-from game import Game
-from ack_status import AckStatus
+from server.game import Game
+from shared.ack_status import AckStatus
 
 
 class Room:

@@ -1,9 +1,8 @@
 import sys
 import socket
 import threading
-from ack_status import AckStatus
-import client_utils
-
+from shared.ack_status import AckStatus
+from client import client_utils
 
 class Client:
     """

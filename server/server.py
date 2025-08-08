@@ -6,10 +6,10 @@ import re
 from typing import Dict
 import bcrypt
 
-from ack_status import AckStatus
-from player import Player
-from room import Room
-from config import Config
+from shared.ack_status import AckStatus
+from server.player import Player
+from server.room import Room
+from server.config import Config
 
 
 class Server:
